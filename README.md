@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @hokka1do
+- 👀 I’m interested in java development.
+- 🌱 I’m currently learning Java, Spring and React.
+- 📫 How to reach me kyzya.illia@gmail.com
